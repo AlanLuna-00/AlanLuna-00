@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alan Luna</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alanluna-00" alt="alanluna-00" /></a> </p>
-
 - 🌱 I’m currently learning **Next, TypeScript, Python**
 
 - 💬 Ask me about **React, Node and PostgreSQL or MongoDB**
@@ -22,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanluna-00&show_icons=true&locale=en&layout=compact" alt="alanluna-00" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanluna-00&show_icons=true&locale=en" alt="alanluna-00" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alanluna-00" alt="alanluna-00" /></a> </p>
