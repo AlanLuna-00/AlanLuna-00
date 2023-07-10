@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">⚽️ Football lover<br>🐛 Bug hunting since 2021<br>🎯 Goals: Working at a FAANG and beyond<br>🌍 Curious learner</p>
+<p align="left">⚽️ Football lover<br>🐛 Bug hunting since 2021<br>🎯 Goals: Working at a FAANG<br>🌍 Curious learner</p>
 
 ###
 
