@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="250" src="https://eldiadegualeguay.com/wp-content/uploads/2022/12/messi-copa.gif"  />
+<img align="right" height="200" src="https://eldiadegualeguay.com/wp-content/uploads/2022/12/messi-copa.gif"  />
 
 ###
 
