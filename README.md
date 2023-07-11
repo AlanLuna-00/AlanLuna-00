@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Alan Luna</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alan Luna</h1>
 
 ###
 
@@ -106,13 +106,13 @@
 </div>
 
 ###
+<h1></h1>
 
 <br clear="both">
 
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=TecGato&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=TecGato&theme=dracula&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=AlanLuna-00&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanLuna-00&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200"/>
+
 </div>
----
-[![](https://visitcount.itsvg.in/api?id=AlanLuna-00&icon=0&color=0)](https://visitcount.itsvg.in)
-###
+
